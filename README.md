@@ -44,7 +44,7 @@ I used HTML, CSS & Bootstrap and ASP.NET components in the design part.
 - HTML & CSS <img src="https://user-images.githubusercontent.com/93661411/168799493-0597fc17-d568-4799-9f61-60c964981766.png" width="64" height="64">
 - Bootstrap <img src="https://user-images.githubusercontent.com/93661411/168799536-c3dd9889-a1c4-42d8-9ec1-0644e61605f2.png" width="64" height="64">
 - ASP.NET Components <img src="https://user-images.githubusercontent.com/93661411/168799584-ab59894e-6ed7-47dc-a57f-bea73b18035c.png" width="64" height="64">
-- C# <img src="https://user-images.githubusercontent.com/93661411/168799930-62a5a331-1df8-411e-95cf-595b7898a987.png" width="64" height="64">
+- C# <img src="https://user-images.githubusercontent.com/93661411/168799930-62a5a331-1df8-411e-95cf-595b7898a987.png" width="16" height="16">
 
 Thank you for reading...
 
