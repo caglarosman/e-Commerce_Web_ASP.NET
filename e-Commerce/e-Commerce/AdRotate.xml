@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">
+	<Ad>
+		<ImageUrl>~/images/ads/ad_banner_1.png</ImageUrl>
+		<NavigateUrl>http://google.com</NavigateUrl>
+		<AlternateText>e-Commerce Web</AlternateText>
+		<Width>100%</Width>
+		<Height>180px</Height>
+		<Impressions>100</Impressions>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>~/images/ads/ad_banner_2.jpg</ImageUrl>
+		<NavigateUrl>http://google.com</NavigateUrl>
+		<AlternateText>e-Commerce Web</AlternateText>
+		<Width>100%</Width>
+		<Height>160px</Height>
+		<Impressions>100</Impressions>
+	</Ad>
+
+</Advertisements>
