@@ -41,10 +41,10 @@ I used HTML, CSS & Bootstrap and ASP.NET components in the design part.
 
  ### 3. TECHNOLOGIES
 
-- HTML & CSS <img src="https://user-images.githubusercontent.com/93661411/168799493-0597fc17-d568-4799-9f61-60c964981766.png" width="32" height="32">
-- Bootstrap <img src="https://user-images.githubusercontent.com/93661411/168799536-c3dd9889-a1c4-42d8-9ec1-0644e61605f2.png" width="32" height="32">
+- <strong>HTML & CSS</strong> <img src="https://user-images.githubusercontent.com/93661411/168799493-0597fc17-d568-4799-9f61-60c964981766.png" width="32" height="32">
+- <strong>Bootstrap</strong> <img src="https://user-images.githubusercontent.com/93661411/168799536-c3dd9889-a1c4-42d8-9ec1-0644e61605f2.png" width="32" height="32">
 - <strong>ASP.NET Components</strong>
-- C# <img src="https://user-images.githubusercontent.com/93661411/168799930-62a5a331-1df8-411e-95cf-595b7898a987.png" width="32" height="32">
+- <strong>C#</strong> <img src="https://user-images.githubusercontent.com/93661411/168799930-62a5a331-1df8-411e-95cf-595b7898a987.png" width="32" height="32">
 
 Thank you for reading...
 
